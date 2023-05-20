@@ -1,0 +1,1 @@
+INSERT INTO UhabCoapa.TUsuario(Id_TUsuario, NombreTusuario)VALUES(NULL,'Sistemas'),(NULL,'Gerente'),(NULL,'Administrativos');

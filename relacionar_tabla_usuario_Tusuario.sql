@@ -1,0 +1,1 @@
+ALTER TABLE UhabCoapa.Usuario ADD FOREIGN KEY(Id_TUser) REFERENCES TUsuario(Id_TUsuario);
